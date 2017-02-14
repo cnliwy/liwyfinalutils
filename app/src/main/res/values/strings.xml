@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">liwy工具集</string>
+    <string name="title_activity_main">天上人间</string>
+    <string name="title_activity_test">TestActivity</string>
+</resources>

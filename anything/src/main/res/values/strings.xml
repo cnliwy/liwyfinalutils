@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">anything</string>
+    <string name="welcome">本页面由liwy提供</string>
+    <string name="invoke_popup">召唤神龙</string>
+</resources>
